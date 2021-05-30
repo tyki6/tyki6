@@ -5,6 +5,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![mBouamama's github stats](https://github-readme-stats.vercel.app/api?username=mBouamama&show_icons=true&theme=tokyonight&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mBouamama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mBouamama&theme=tokyonight)](https://git.io/streak-stats)
 
